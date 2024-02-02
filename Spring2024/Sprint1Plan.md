@@ -63,7 +63,7 @@ The responsibility of User Story 7 has been assigned to each team member. The ta
 
 
 ## Links to GitHub Repo, Pivotal Tracker, and Slack:
-- **GitHub:** [FashioNXT/Event360_Spring_2024](https://github.com/FashioNXT/Event360_Spring_2024)
+- **GitHub:** [FashioNXT/Event360_Spring_2024](https://github.com/CSCE-606-Event360)
 - **Pivotal Tracker:** [Project 2676556](https://www.pivotaltracker.com/n/projects/2676556)
 - **Slack:** [Slack Workspace](https://app.slack.com/client/T06G2CUA9KL/C06G29HV9L3)
 
