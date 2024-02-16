@@ -5,6 +5,8 @@ PlaNXT: https://planxt.herokuapp.com/ login username: 1234@test.com password 123
 
 EventNXT: https://eventnxt-0fcb166cb5ae.herokuapp.com/ login username: test01@example.com password 123456
 
+CastNXT: https://castnxtspring.herokuapp.com/ 
+
 ## A link to your project's Code Climate reports
 PlaNXT: 
 
