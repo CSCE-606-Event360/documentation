@@ -1,9 +1,9 @@
 # Sprint 1 Wrap-Up
 
-## a link to your deployed application (e.g. on Heroku)
+## A link to your deployed application (e.g. on Heroku)
 PlaNXT: https://planxt.herokuapp.com/ login username: 1234@test.com password 1234
 
-## a link to your project's Code Climate reports
+## A link to your project's Code Climate reports
 PlaNXT: 
 
 
