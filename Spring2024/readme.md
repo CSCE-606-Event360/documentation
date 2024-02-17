@@ -8,8 +8,8 @@ EventNXT: https://eventnxt-0fcb166cb5ae.herokuapp.com/ login username: test01@ex
 CastNXT: https://castnxtspring.herokuapp.com/ 
 
 ## A link to your project's Code Climate reports
-PlaNXT: https://csce-606-event360.github.io/Spring2024-PlaNXT/#_AllFiles (refresh it if not displayed)
-
+PlaNXT coverage report: https://csce-606-event360.github.io/Spring2024-PlaNXT/#_AllFiles (refresh it if not displayed)
+PlaNXT code climate: https://codeclimate.com/github/CSCE-606-Event360/Spring2024-PlaNXT
 
 ## Summary
 This wrap-up document provides an overview of the activities, accomplishments, and lessons learned during Sprint 1.
