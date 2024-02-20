@@ -11,6 +11,7 @@ CastNXT: https://castnxtspring.herokuapp.com/
 - PlaNXT coverage report: https://csce-606-event360.github.io/Spring2024-PlaNXT/#_AllFiles (refresh it if not displayed)
 - PlaNXT code climate: https://codeclimate.com/github/CSCE-606-Event360/Spring2024-PlaNXT
 - EventNXT code climate: https://codeclimate.com/github/CSCE-606-Event360/Spring2024EventNXT
+- CastNXT: https://codeclimate.com/github/CSCE-606-Event360/CastNXTs24  
 
 ## Summary
 This wrap-up document provides an overview of the activities, accomplishments, and lessons learned during Sprint 1.
