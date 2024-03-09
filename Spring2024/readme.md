@@ -1,4 +1,4 @@
-# Sprint 2 MVP
+# Sprint MVPs
 
 ## A link to your deployed application (e.g. on Heroku)
 PlaNXT: https://planxt.herokuapp.com/ login username: 1234@test.com password 1234
